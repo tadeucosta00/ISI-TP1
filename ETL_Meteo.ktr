@@ -866,7 +866,7 @@
     </fields>
     <data>
       <line>
-        <item>http://api.weatherapi.com/v1/current.json?key=552535e7b24345b1bd7222152250910&amp;q=Braga%20Portugal&amp;aqi=no</item>
+        <item></item>
       </line>
     </data>
     <attributes/>
@@ -1066,14 +1066,14 @@
     </fields>
     <data>
       <line>
-        <item>http://192.168.1.185:8123/api/states/sensor.echo_dot_temperature</item>
-        <item>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIyYzdkMGIwZDY3ODQ0M2RkYWM4ZGUzOTYxMDJiNTVlOCIsImlhdCI6MTc2MDA0NjY4MSwiZXhwIjoyMDc1NDA2NjgxfQ.cMRbY-J2biOyYvSFR-9SrhQOykOBa1M18qwEXJTFIrk</item>
-        <item>tadeucosta00@gmail.com</item>
-        <item>smtp.mailersend.net</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
         <item>587</item>
-        <item>MS_g20bDP@test-p7kx4xwv2q2g9yjr.mlsender.net</item>
-        <item>mssp.qZDWyFk.v69oxl5k39zl785k.KuLnFQZ</item>
-        <item>http://192.168.1.185:8123/api/services/switch/turn_on</item>
+        <item></item>
+        <item></item>
+        <item></item>
         <item>{"entity_id" : "switch.tasmota"}</item>
         <item>Possivel Incendio</item>
         <item>Alerta Possivel incendio diferença de temperatura muito grande em relação ao exterior.</item>
